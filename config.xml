@@ -1,4 +1,5 @@
 config xml.
 test config
 git diff
-reset test	
+reset test
+stage	
