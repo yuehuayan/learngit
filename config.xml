@@ -1,3 +1,4 @@
 config xml.
 test config
 git diff
+reset test	
